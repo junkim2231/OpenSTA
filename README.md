@@ -1,4 +1,4 @@
-# OpenSTA
+# setup method
 
 ## Setup
 
