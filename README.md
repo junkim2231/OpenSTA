@@ -23,7 +23,7 @@ It's a repository of contents that I studied to do research
     python3.7 -m pip install cppyy
     
     
-#### 5. setting VLSI Gate Sizing with ML 
+#### 5. Setting VLSI Gate Sizing with ML 
 ##### OpenSTA path needs to be reestablished.
 
     vim staev.py
