@@ -40,9 +40,9 @@ Change shared_libsd in stave.py to build.
 ### Error
 
 #### Error1.
-Problem: you Can't find the Header.h
+Problem: you Can't find the Header.h (Python3.6 or 3.7)
 
-Solution: Check the version problem
+Solution: Check the version problem (Python3.6 or 3.7)
 
     vim ./CMakeLists.txt
     
