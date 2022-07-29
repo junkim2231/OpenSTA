@@ -28,6 +28,8 @@ It's a repository of contents that I studied to do research
     vim staev.py
     vim datadump.py
     
+Change shared_libsd in stave.py to build.  
+    
 #### 6. Check 
     python3 ./OpenSTA/build/STA_example.py 
     python3 ./VLSI-gate-sizing-with-ml/datadump.py
