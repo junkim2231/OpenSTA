@@ -1,6 +1,6 @@
 # OpenSTA
 
-# Preparation process for code execution
+## Setup
 
 It's a repository of contents that I studied to do research
 
@@ -14,14 +14,24 @@ It's a repository of contents that I studied to do research
  Access the link below and you'll find an installation guide for OpenSTA.
  https://github.com/jaeyongchung/OpenSTA/blob/KKA/README_dataset.md
   
-#### 4. Virtual Environment Preparation Process
+#### 4. Virtual Environment Setup 
 
     python3.7 -m pip install -upgrade pip
     python3.7 -m pip install torch torchvision torchaudio
     python3.7 -m pip install dgl-cu102 dglgo -f https://data.dgl.ai/wheels/repo.html
     python3.7 -m pip install cppyy
-    python3.7 ./OpenSTA/build/STA_example.py 
+    
+    
+#### 5. setting VLSI Gate Sizing with ML 
+##### OpenSTA path needs to be reestablished.
 
+    vim staev.py
+    vim datadump.py
+    
+#### 6. Check 
+    python3 ./OpenSTA/build/STA_example.py 
+    python3 ./VLSI-gate-sizing-with-ml/datadump.py
+    
 ***
 
 ### Error
