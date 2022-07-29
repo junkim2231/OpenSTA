@@ -1,2 +1,6 @@
 # OpenSTA
-My personal record
+
+It's a repository of contents that I studied to do research.
+
+
+
