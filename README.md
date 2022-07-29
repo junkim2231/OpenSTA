@@ -1,4 +1,4 @@
-# setup method
+# Setup method
 
 ## Setup
 
