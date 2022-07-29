@@ -12,7 +12,8 @@ It's a repository of contents that I studied to do research
     
 #### 3. Install OpenSTA 
  Access the link below and you'll find an installation guide for OpenSTA.
- https://github.com/jaeyongchung/OpenSTA/blob/KKA/README_dataset.md
+ 
+ [OpenSTA Setup](https://github.com/jaeyongchung/OpenSTA/blob/KKA/README_dataset.md)
   
 #### 4. Virtual Environment Setup 
 
