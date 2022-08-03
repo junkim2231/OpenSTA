@@ -7,8 +7,11 @@ It's a repository of contents that I studied to do research
 #### 1. install Virtualenv
     sudo pip install virtualenv
     
-#### 2. Settings Virtualenv
+#### 2.1 Settings Virtualenv
     sudo virtualenv venv --python=python3.7
+    
+#### 2.2 Start Virtualenv
+    source  venv/bin/activate
     
 #### 3. Install OpenSTA 
  Access the link below and you'll find an installation guide for OpenSTA.
