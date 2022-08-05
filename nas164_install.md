@@ -6,13 +6,17 @@
 
 #### Log in the abs
 
-#### Install Virtualenv
+#### 1. Install Virtualenv
 
     pip install virtualenv
 
-#### Setting Virtualenv
+#### 2. Setting Virtualenv
 
     virtualenv venv --python=python3.7
+
+#### 3. Start Virtualenv
+
+    source ./venv/bin/activate
 
 #### Virtualenv Environment Setup
 
