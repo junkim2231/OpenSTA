@@ -1,8 +1,17 @@
 # Install guide
 
 
-#### Access the nas164 storage
+### Add to server IP
 
+#### Access the NAS and enter the IP of the server
+    
+    sudo vi /etc/exports/
+  
+####   Enter the appropriate server and insert the NAS's IP and path
+  
+    sudo mount -t nfs (IP_Add):/volume1/supersusers/ /nas164/
+
+#### Access the nas164 storage
 
 #### Log in the abs
 
